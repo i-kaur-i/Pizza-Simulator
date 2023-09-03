@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Marinara
+comment0.text=\n\ Write\ a\ description\ of\ class\ Marinara\ here.\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=
+comment1.target=Marinara()
+comment1.text=\n\ This\ constructor\ calls\ the\ base\n\ \n\ this\ constructor\ calls\ the\ base\ with\ super\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=2

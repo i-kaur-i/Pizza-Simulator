@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Goat
+comment0.text=\n\ Write\ a\ description\ of\ class\ Goat\ here.\n\n\ @author\ Iakjot\ Kaur\ \n\ @version\ May\ 28th,\ 2020\n
+comment1.params=
+comment1.target=Goat()
+comment1.text=\n\ This\ constructor\ calls\ the\ cheese\ constructor\n\ \n\ this\ constructor\ calls\ the\ cheese\ constructor\ with\ super\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=2

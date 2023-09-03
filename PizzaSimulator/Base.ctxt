@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Base
+comment0.text=\n\ This\ class\ is\ for\ the\ base\ of\ the\ pizza\ and\ it\ extends\ the\ ingredient\ \n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=description\ cost\ calories
+comment1.target=Base(java.lang.String,\ Money,\ int)
+comment1.text=\n\ This\ constructor\ makes\ the\ base\n\ \n\ this\ constructor\ calls\ the\ super\ class\ Ingredient's\ constructor\ \n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ string,\ money,\ int\n\ *return\:\ none\n
+numComments=2

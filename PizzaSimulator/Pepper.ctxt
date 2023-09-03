@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pepper
+comment0.text=\n\ This\ class\ is\ for\ peppers\ and\ it\ extends\ Vegetable\n\n\ @author\ Iakjot\ Kaur\ \n\ @version\ May\ 28th,\ 2020\n
+comment1.params=color
+comment1.target=Pepper(java.awt.Color)
+comment1.text=\n\ This\ constructor\ calls\ the\ cheese\ constructor\n\ \n\ this\ constructor\ calls\ the\ vegetable\ constructor\ with\ super\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=2

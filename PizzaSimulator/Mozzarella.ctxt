@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mozzarella
+comment0.text=\n\ This\ class\ is\ for\ the\ mozzarella\ and\ it\ extends\ cheese\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=
+comment1.target=Mozzarella()
+comment1.text=\n\ This\ constructor\ calls\ the\ cheese\ constructor\n\ \n\ this\ constructor\ calls\ the\ cheese\ constructor\ with\ super\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=2

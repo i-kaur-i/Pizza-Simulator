@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\n\ This\ class\ is\ to\ build\ and\ draw\ a\ circle.\ I\ used\ the\ radius\ to\ \n\ make\ the\ circle\ and\ then\ caluclated\ the\ area.\ This\ is\ from\ the\ lab.\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=x\ y\ radius
+comment1.target=Circle(int,\ int,\ int)
+comment1.text=\n\ This\ constructor\ is\ to\ initalize\ the\ circle\ variable\ and\ to\ use\ the\ super\ class.\n\ \n\ I\ passed\ in\ parameters\ and\ used\ the\ super\ class.\n\ And\ then\ I\ set\ the\ set\ radius\ method\ to\ set\ the\ radius.\n\nPRE\:\ ints\ for\ parameters\nPOST\:\ initialzes\ variables\n\ @param\:\ int\n\ *return\:\ none\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\n\ This\ method\ is\ to\ get\ the\ radius\ of\ the\ circle.\n\ \n\ I\ returned\ the\ instance\ variable\ of\ the\ radius.\n\nPRE\:\ none\nPOST\:\ returns\ the\ radius\n\ @param\:\ none\n\ *return\:\ double\n
+comment3.params=r
+comment3.target=void\ setRadius(int)
+comment3.text=\n\ This\ method\ is\ to\ set\ the\ radius\ of\ the\ circle.\n\ \n\ I\ set\ the\ instance\ variable\ radius\ to\ the\ parameter\ passed\ in.\n\nPRE\:\ int\ to\ pass\ in\nPOST\:\ sets\ the\ radius\n\ @param\:\ int\n\ *return\:\ none\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\n\ This\ method\ is\ to\ get\ the\ area\ of\ the\ circle.\n\ \n\ I\ used\ PI\ and\ multiplied\ it\ by\ the\ radius\ twice.\n\nPRE\:\ none\nPOST\:\ returns\ the\ area\n\ @param\:\ none\n\ *return\:\ double\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\n\ This\ method\ is\ to\ draw\ the\ circle.\n\ \n\ I\ made\ an\ object\ and\ then\ used\ the\ draw\ oval\ \n\ and\ passed\ in\ the\ radius\ and\ the\ x,y\ to\ get\ the\ shape\ of\ the\ circle.\n\nPRE\:\ object\nPOST\:\ draws\n\ @param\:\ object\n\ *return\:\ none\n
+numComments=6

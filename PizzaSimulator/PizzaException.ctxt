@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PizzaException
+comment0.text=\n\ This\ class\ extends\ the\ RuntimeException\ and\ has\ two\ methods\n\ for\ a\ message\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=
+comment1.target=PizzaException()
+comment1.text=\n\ This\ method\ is\ to\ print\ the\ message\n\ \n\ called\ the\ super\ class\n\nPRE\:\ none\nPOST\:\ constructor\ called\n\ @param\:\ none\n\ *return\:\ none\n
+comment2.params=m
+comment2.target=PizzaException(java.lang.String)
+comment2.text=\n\ This\ method\ is\ to\ print\ the\ message\ \n\ \n\ called\ the\ super\ class\ and\ printed\ the\ message\ passed\ in\n\nPRE\:\ string\ passed\ in\nPOST\:\ constructor\ called\ with\ string\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=3

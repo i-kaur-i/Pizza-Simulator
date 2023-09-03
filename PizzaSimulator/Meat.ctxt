@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Meat
+comment0.text=\n\ This\ class\ is\ for\ the\ meat\ that\ uses\ the\ super\ class\n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=description\ cost\ calories
+comment1.target=Meat(java.lang.String,\ Money,\ int)
+comment1.text=\n\ This\ constructor\ calls\ the\ base\n\ \n\ this\ constructor\ calls\ the\ base\ with\ super\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ none\n\ *return\:\ none\n
+numComments=2

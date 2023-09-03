@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vegetable
+comment0.text=\n\ This\ class\ is\ for\ the\ vegetables\ \n\n\ @author\ Iakjot\ Kaur\n\ @version\ May\ 28th,\ 2020\n
+comment1.params=description\ cost\ calories\ color
+comment1.target=Vegetable(java.lang.String,\ Money,\ int,\ java.awt.Color)
+comment1.text=\n\ This\ constructor\ calls\ the\ base\n\ \n\ this\ constructor\ calls\ the\ base\ with\ super\ with\ description,\ money,\n\ int,\ and\ color\n\nPRE\:\ none\nPOST\:\ calls\ constructor\n\ @param\:\ string,\ money,\ int,\ color\n\ *return\:\ none\n
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment2.text=\n\ This\ method\ is\ to\ get\ the\ color\n\ \n\ returned\ the\ instance\ variable\ theColor\n\nPRE\:\ none\nPOST\:\ returns\ the\ color\n\ @param\:\ none\n\ *return\:\ Color\n
+comment3.params=o
+comment3.target=void\ setColor(java.lang.Object)
+comment3.text=\n\ This\ method\ is\ to\ set\ the\ color\n\ \n\ made\ sure\ the\ object\ is\ an\ instance\ of\ color\ and\ then\ set\ the\n\ variables\ or\ else\ threw\ an\ exception\n\nPRE\:\ have\ object\ to\ pass\ in\nPOST\:\ sets\ the\ color\ \n\ @param\:\ object\n\ *return\:\ none\n
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ This\ method\ is\ to\ check\ if\ the\ object\ is\ equal\ to\ vegetable\n\ \n\ made\ sure\ the\ object\ is\ an\ instance\ of\ vegetable\ and\ then\ returned\ true\ or\ false\n\ based\ off\ if\ the\ color\ was\ the\ same\n\ \n\ PRE\:\ have\ object\ to\ pass\ in\n\ POST\:\ true\ or\ false\ based\ on\ equality\n\ @param\:\ object\n\ *return\:\ boolean\n
+numComments=5

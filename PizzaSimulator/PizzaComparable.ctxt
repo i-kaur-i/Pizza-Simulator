@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PizzaComparable
+comment0.text=\n\ CSS\ 162,\ Pizza\ Manager\ Project\n\n\ This\ interface\ can\ do\ everything\ the\ Comparable\ interface\ can\ and\ more\n\n\ Author\:\ Rob\ Nash\ with\ minor\ edits\ by\ Johnny\ Lin\n
+comment1.params=o
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=o
+comment2.target=int\ compareToBySize(java.lang.Object)
+comment3.params=o
+comment3.target=int\ compareToByCalories(java.lang.Object)
+numComments=4
